@@ -1,7 +1,21 @@
-## The Art of writing 
+## The Art of Markdown 
 The first step is easy: we layout a series of headings and build the structure. This should come from my sense of logic or the structure or my message to the world. I’d like to write in a nice structured way and would like that the world should read my work. I need a structure, and I need a distribution channel. The point is, what elements can we handle in plain text? Let’s see.
 
-The idea is to see if we have tools and affordances that can enable me to write in plain text on a web browser and use the web mechanisms to bring in coworkers, or co-authors, and write a piece complete with bibliographic references and all elements easily, moving from situtaion and context to context yet missing nothing. Everything needs to be as easy as possible. Free, plain text is useful in the sense that people do not necessarily have to learn any crafty and clever tricks to get things to work. It is like using an email communication. You do not need to work in enhanced or rich text format, most of your simple text formatting options would enable you to work \cite{leonard2016text}
+The idea is to see if we have tools and affordances that can enable me to write in plain text on a web browser and use the web mechanisms to bring in coworkers, or co-authors, and write a piece complete with bibliographic references and all elements easily, moving from situtaion and context to context yet missing nothing. Everything needs to be as easy as possible. Free, plain text is useful in the sense that people do not necessarily have to learn any crafty and clever tricks to get things to work. It is like using an email communication. You do not need to work in enhanced or rich text format, most of your simple text formatting options would enable you to work \cite{leonard2016text}. 
+
+Markdown itself has come a long way. John Gruber first wrote his definition of markdown and that has some very simple markup properties that more or less work well (see Table 1)
+
+Table 1. Markdown Properties
+
+| Text Marks | Markdown symbols |
+|------------|------------------|
+| Hashes     | Headers          |
+| Dashes     | Bullet Points    |
+| Numbers    | Numbered list    |
+| Brackets   | Hyperlinks       |
+| Bang       | Figures          |
+
+This was it, pretty much. Over time, people added more embellishments to the Markdown and it became easy for anyone to author anything using markdown. Things got a further boost with John Macfarlane and his addition of [Pandoc](http://pandoc.org). Using Pandoc, you could actually transform any document to any other format. There is a wide range of such changes possible and you should check out this website to use. Leijen (2010) wrote Madoko, a great Markdown based scholarly writing environment, but it has a bit of learning curve \cite{leijenmadoko}. Tai-Yi-Lin's [Scholdoc](http://scholarlymarkdown.com/) is another great experiment. JATSDOWN and pubref is another great project to author everything in Markdown \cite{johnston2016jatdown}
 
 ## Think in paragraphs
 Writing in plain text does not matter when it comes to writing sentences and paragraphs. 
