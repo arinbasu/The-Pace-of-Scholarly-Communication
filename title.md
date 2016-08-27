@@ -1,1 +1,1 @@
-The Pace of Scholarly Communication
+Plain Text and of Scholarly Communication
