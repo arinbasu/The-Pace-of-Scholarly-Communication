@@ -66,7 +66,7 @@ Using word processing, presentation software in different systems and keeping th
 3. open peer review; and 
 4. full recognition for participating in the process
 
-For this to be realised, we also need our tools that are free, open sourced, and can be used everywhere and can inter-operate \\cite{Kwts0NlF}. Let’s see some tools we have that we can use for this purpose. 
+For this to be realised, we also need our tools that are free, open sourced, and can be used everywhere and can inter-operate \cite{Kwts0NlF}. Let’s see some tools we have that we can use for this purpose. 
 
 
 ## A comparison of tools
