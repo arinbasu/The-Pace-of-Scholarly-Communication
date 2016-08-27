@@ -1,1 +1,1 @@
-Plain Text and of Scholarly Communication
+Plain Text and Academic Writing
